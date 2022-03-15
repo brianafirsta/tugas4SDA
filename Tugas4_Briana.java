@@ -33,7 +33,7 @@ public class Tugas4_Briana {
         System.out.println("Antrian Saat Ini : "+antrian);
         System.out.println(" ");
 
-        //dequeue = fungsi pool
+        //dequeue = fungsi poll
         System.out.println("2. Perintah Dequeue");
         System.out.println("-------------------");
         System.out.println("Selamat Datang di Jasa Cetak Foto!");
